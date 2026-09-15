@@ -1,0 +1,43 @@
+        body{
+            background-image: url(download.png);
+            
+        }
+        h1{
+            color: blueviolet;
+        }
+        h2 {
+            color: blueviolet;
+        }
+        p{
+            color: blueviolet
+        }
+        #div1{
+            background-color:rgba(15, 2, 51, 0.637) ;
+            width: 200px;
+            border-color:black;
+            border-width: 2px;
+            border-style:solid;
+            border-radius: 10px;
+
+        }
+        ul {
+            color:blueviolet;
+        }
+      
+        i{
+            color:blueviolet;
+        }
+        li:hover {
+            width:250px;
+            transition:0.5s;
+            color:white;
+        }
+
+        i:hover{
+            color:white;
+            transition:0.5s;
+        }
+        a:hover{
+            color:white;
+            transition: 1s;
+        }
